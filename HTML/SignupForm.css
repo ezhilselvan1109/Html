@@ -1,0 +1,36 @@
+
+body{
+    margin-left: 650px;
+    margin-top: 50px;
+}
+
+table{
+    background-color: rgb(8, 8, 22);
+    color: yellow;
+    border-spacing: 20px;
+}
+
+#two{
+    background-color: rgb(8, 8, 22);
+    text-align: right;
+}
+#one,#three{
+    background-color: #fb6c06;
+    box-shadow: 0px 0px 0px 20px rgb(251, 108, 6);
+    
+}
+#Cancel{
+    background-color: red;
+    border: none;
+    width: 60px;
+    height: 30px;
+}
+#Submit{
+    background-color: green;
+    border: none;
+    width: 60px;
+    height: 30px;
+}
+#three{
+    text-align: right;
+}

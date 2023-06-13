@@ -1,0 +1,21 @@
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    /* width: 30%; */
+    /* width: 25%; */
+    /* height: 60%; */
+  }
+  
+  td, th {
+    border: 1px solid #0d0404;
+    text-align: left;
+    padding: 8px;
+  }
+  #one{
+    text-align: center;
+  }
+  body{
+    margin-left: 700px;
+    margin-top: 50px;
+}

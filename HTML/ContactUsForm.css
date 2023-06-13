@@ -1,0 +1,32 @@
+table, th, td {
+    border:1px solid none;
+    padding: 1%;
+}
+
+table{
+    border-spacing: 5px;
+    box-shadow: 0 0 0px 5px rgb(92, 89, 89);
+    background-color: rgb(243, 198, 121);
+    border-top-color: rgb(252, 248, 248);
+    width: 400px;
+    height: 600px;
+}
+input,textarea,button{
+    border: none;
+}
+input,button{
+    height: 50px;
+    width: 100%;
+}
+th{
+    background-color:rgb(215, 31, 31);
+    font-family:cursive;
+    color: aliceblue;
+}
+button{
+    background-color:rgb(215, 252, 5);
+}
+body{
+    margin-left: 650px;
+    margin-top: 50px;
+}

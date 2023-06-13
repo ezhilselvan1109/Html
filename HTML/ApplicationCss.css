@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(229, 240, 243);
+    /* border:1px solid rgb(172, 168, 168); ; */
+    margin: 5%;
+}
+.class1{
+    border-radius: 10px;
+    background-color:white;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    font-family:sans-serif;
+    line-height: 1.5;
+
+}
+.form{
+    line-height: 2.00;
+}
+#id1{
+    color: red;
+}
+input[type=text],select,[type=email],[type=number]{
+  padding: 10px 10px;
+  margin: 8px 0;
+  width:100%;/*450px*/
+  box-sizing: border-box;
+  border: 2px solid rgb(229, 240, 243);
+  border-radius: 5px;
+}
+.class2{
+    font-weight: bold;
+}
+.class4{
+    border: none;
+    background-color: white;
+    font-size: 16px;
+    color: red;
+  }
+
+  button{
+    border: none;
+    color: white;
+    background-color: red;
+    width: 80px;
+    height: 30px;
+    border-radius: 20px;
+  }
